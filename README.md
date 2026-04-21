@@ -2,7 +2,7 @@
 ## Objective
 To analyze TP53 mutation frequency and mutation type distribution in a public cancer genomics dataset.
 ## Data Source
-Public cancer genomics dataset to be selected from cBioPortal.
+TP53 mutation data from the TCGA Breast Cancer study available through cBioPortal.
 ## Planned Methodology
 - Obtain mutation dataset
 - Identify TP53 mutation records
